@@ -148,5 +148,3 @@ To run this project in replit , you will need to add the following environment v
 ⚠️Warning : Self-bots are discouraged by Discord and is against Discord's ToS. You might get banned for this if not used properly.
 
 ⚠️Discord's Terms of Service : https://discord.com/terms
-
-
